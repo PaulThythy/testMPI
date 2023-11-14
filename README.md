@@ -9,5 +9,5 @@ mpicc main.c -o main
 
 Execution :
 ```sh
-mpirun -np <number_of_nodes> main
+mpirun -np <number_of_nodes> ./main
 ```
